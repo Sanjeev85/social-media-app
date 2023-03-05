@@ -1,7 +1,8 @@
-import User from "../models/User.js";
+import User from '../models/User.js';
 
 /* READ */
 export const getUser = async (req, res) => {
+    console.log('inside getUser server');
     try {
         const { id } = req.params;
         const user = await User.findById(id);
