@@ -57,7 +57,7 @@ function Navbar() {
                             cursor: 'pointer',
                         },
                     }}>
-                    Sociopedia
+                    SocialMedia App
                 </Typography>
                 {isNonMobileScreens && (
                     <FlexBetween
