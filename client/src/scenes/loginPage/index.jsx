@@ -20,7 +20,7 @@ function LoginPage() {
                 fontWeight="bold"
                 fontSize="32px"
                 color="primary">
-                Sociopedia
+                SocialMedia App
             </Typography>
 
             <Box
@@ -33,7 +33,7 @@ function LoginPage() {
                     fontWeight="500"
                     varint="h5"
                     sx={{ mb: '1.5rem' }}>
-                    Welcome to Sociopedia, the Social Media for Sociopaths!!
+                    Welcome to SocialMedia App !!.
                 </Typography>
                 <Form />
             </Box>
